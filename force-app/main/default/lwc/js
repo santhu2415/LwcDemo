@@ -1,0 +1,32 @@
+const game = {
+    team1 :'india',
+    team2 :'Austraila',
+
+    players:[
+        ['Dhoni',
+        'sharma',
+        'kholi',
+        'Rahul',
+        'Jadeja',
+        'pandey',
+        'Ashwin'
+    ],
+    [
+        'waden',
+        'cummins',
+        'starc',
+        'warner',
+        'stonis',
+        'green',
+        'finch'
+    ],],
+        century :['kholi','sharma','warner','maxwell'],
+    odds:{
+        team1:1.33,
+        x:3.25,
+        team2:6.5
+    }
+} 
+
+    const [player1,player2] = game.players
+    console.log(player1,player2);
