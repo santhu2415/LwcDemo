@@ -2,6 +2,7 @@ public with sharing class TestDemo {
     public TestDemo() {
       System.debug('Test for git');
       //changes from lwc
+      //changes from lwc2
     }
 
     public TestDemo2() {
