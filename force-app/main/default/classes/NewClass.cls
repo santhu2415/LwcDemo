@@ -4,7 +4,6 @@ public with sharing class NewClass {
          system.debug('jwala insertion1');
          system.debug('jwala insertion2');
     }
-    //jwala
-}
+  }
 //changes in github
 
