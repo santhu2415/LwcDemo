@@ -9,7 +9,4 @@ public with sharing class TestDemo {
     public testMethod3() {
       system.debug('test method 3');
     }
-  
-    
-
 }
