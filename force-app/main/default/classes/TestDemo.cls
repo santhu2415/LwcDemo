@@ -3,6 +3,7 @@ public with sharing class TestDemo {
       System.debug('Test for git');
       //changes from lwc
       //changes from lwc2
+      //changes from lwc3
     }
 
     public TestDemo2() {
