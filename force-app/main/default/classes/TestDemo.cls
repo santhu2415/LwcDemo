@@ -1,17 +1,13 @@
 public with sharing class TestDemo {
     public TestDemo() {
-      System.debug('Test for git');
-      //changes from lwc
-      //changes from lwc2
-      //changes from lwc3
-    }
+      System.debug('Test for ggit');
 
+    }
     public TestDemo2() {
       System.debug('Test for git');
     }
-//test commit
-//test commit 12245452
-//changes from github
-
+    public static void testmethod(){
+      system.debug('test method 3')
+    }
 
 }
